@@ -1,0 +1,2 @@
+# CurrencyWeatherBot
+simple bot
