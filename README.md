@@ -7,9 +7,9 @@ This is a simple telegram bot. This bot will show you the weather and exchange r
 
 
 # Installation
-'''
-pip install PyTelegramBotAPI
-'''
+
+<p>pip install PyTelegramBotAPI</p>
+<p>pip install bs4</p>
 <h3>Project was done by:</h3>
 <p>Zhakyp Zhoomart uulu</p>
 <p>Kumushbekov Nurbek<p>
